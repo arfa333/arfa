@@ -6,3 +6,7 @@ body{
     height: 200px;
     width: 200px;
 }
+button{background-color: white;
+      border: 0;}
+button:hover{background-color: aqua;
+            padding: 30px;}
