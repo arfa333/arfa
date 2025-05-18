@@ -9,8 +9,8 @@ body{
 }
 button{background-color: white;
       border: 1px solid black;
-      border-radius: 8px;
+      border-radius: 12px;
        
       padding: 20px;}
-button:hover{background-color: aqua;
+button:hover{background-color: blue;
             padding: 30px;}
