@@ -1,6 +1,7 @@
 body{
     background-color: aqua;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 .dd{
     height: 200px;
